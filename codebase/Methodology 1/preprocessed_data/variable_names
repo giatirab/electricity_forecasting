@@ -1,0 +1,22 @@
+[
+     "electricity_consumption_statista_eia_Gigawatt/h",
+     "fred_natgas_price_MHHNGSP",
+     "italy_gdpcap_VALUE",
+     "milano_weather_Avg. Temp.",
+     "milano_weather_Avg. Wind",
+     "torino_weather_Avg. Temp.",
+     "torino_weather_Avg. Wind",
+     "italy_population_refinitiv_statista_Population",
+     "napoli_weather_Avg. Temp.",
+     "napoli_weather_Avg. Wind",
+     "brent_oil_price_LCOc1",
+     "energy_mix_eia_Fossil fuels (billion kWh)",
+     "energy_mix_eia_Hydroelectricity (billion kWh)",
+     "energy_mix_eia_Solar (billion kWh)",
+     "energy_mix_eia_Wind (billion kWh)",
+     "energy_mix_eia_Biomass and waste (billion kWh)",
+     "roma_weather_Avg. Temp.",
+     "roma_weather_Avg. Wind",
+     "oal_close_price_refiniti_CO-FOBNWC-AU",
+     "italy_electricity_close_price_GMERTRB"
+]
